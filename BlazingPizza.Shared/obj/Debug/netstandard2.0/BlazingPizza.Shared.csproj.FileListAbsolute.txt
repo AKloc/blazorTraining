@@ -1,0 +1,11 @@
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.deps.json
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.dll
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.Shared.pdb
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.dll
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\bin\Debug\netstandard2.0\BlazingPizza.ComponentsLibrary.pdb
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.AssemblyInfo.cs
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.csproj.CopyComplete
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.dll
+C:\Users\andre678\source\repos\Codemash2020\blazor-workshop\save-points\00-Starting-point\BlazingPizza.Shared\obj\Debug\netstandard2.0\BlazingPizza.Shared.pdb
